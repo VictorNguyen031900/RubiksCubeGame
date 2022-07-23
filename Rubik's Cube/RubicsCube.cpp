@@ -12,7 +12,7 @@ int main()
 	int userINPUT;
 	everything theGAME;
 	do {
-		cout << "Hello welcome to my shitty rubik's cube program!" << endl;
+		cout << "Hello welcome to my rubik's cube program!" << endl;
 		cout << "Do you want to play?" << endl;
 		cout << "1. Yes" << endl;
 		cout << "2. No" << endl;
